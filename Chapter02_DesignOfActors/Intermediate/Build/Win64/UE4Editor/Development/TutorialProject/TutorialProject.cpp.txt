@@ -1,0 +1,2 @@
+D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\Definitions.TutorialProject.h
+d:\unreal projects\tutorialproject\source\tutorialproject\TutorialProject.h
