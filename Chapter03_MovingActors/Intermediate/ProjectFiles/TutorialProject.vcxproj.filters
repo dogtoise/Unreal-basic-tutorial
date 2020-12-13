@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TutorialProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{41C193BA-FF01-433D-B3ED-AFFE53B2B517}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TutorialProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TutorialProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{86FC26CA-447C-4E3B-801D-7E122CD4B294}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TutorialProject">
+      <UniqueIdentifier>{C9FE54F2-B847-48CA-9584-ECBBDF787367}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TutorialProject\Fountain.cpp">
+      <Filter>Source\TutorialProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialProject\Fountain.h">
+      <Filter>Source\TutorialProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TutorialProject\TutorialProject.Build.cs">
+      <Filter>Source\TutorialProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TutorialProject\TutorialProject.cpp">
+      <Filter>Source\TutorialProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialProject\TutorialProject.h">
+      <Filter>Source\TutorialProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TutorialProject\TutorialProjectCharacter.cpp">
+      <Filter>Source\TutorialProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialProject\TutorialProjectCharacter.h">
+      <Filter>Source\TutorialProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TutorialProject\TutorialProjectGameMode.cpp">
+      <Filter>Source\TutorialProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialProject\TutorialProjectGameMode.h">
+      <Filter>Source\TutorialProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

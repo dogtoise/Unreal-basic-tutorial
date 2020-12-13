@@ -1,0 +1,17 @@
+﻿  Invalidating makefile for TutorialProjectEditor (Fountain.cpp modified)
+  Parsing headers for TutorialProjectEditor
+    Running UnrealHeaderTool "D:\Unreal Projects\TutorialProject\TutorialProject.uproject" "D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\TutorialProjectEditor\Development\TutorialProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Administrator\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for TutorialProjectEditor in 4.8297143 seconds
+  Building TutorialProjectEditor...
+  Using Visual Studio 2017 14.16.27043 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 8 processes...
+    [1/6] TutorialProject.init.gen.cpp
+    [2/6] Fountain.gen.cpp
+    [3/6] Fountain.cpp
+    [4/6] UE4Editor-TutorialProject-0025.lib
+       D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\UE4Editor-TutorialProject-0025.lib 라이브러리 및 D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\UE4Editor-TutorialProject-0025.exp 개체를 생성하고 있습니다.
+    [5/6] UE4Editor-TutorialProject-0025.dll
+       D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\UE4Editor-TutorialProject-0025.suppressed.lib 라이브러리 및 D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\UE4Editor-TutorialProject-0025.suppressed.exp 개체를 생성하고 있습니다.
+    [6/6] TutorialProjectEditor.target
+  Total time in Parallel executor: 11.44 seconds
+  Total execution time: 18.69 seconds
