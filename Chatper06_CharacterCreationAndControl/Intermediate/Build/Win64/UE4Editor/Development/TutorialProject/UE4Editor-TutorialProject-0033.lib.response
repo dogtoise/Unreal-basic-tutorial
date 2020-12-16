@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TutorialProject-0033.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\TutorialProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\ABCharacter.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\ABGameMode.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\ABPawn.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\ABPlayerController.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\TutorialProject.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\TutorialProjectCharacter.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\TutorialProjectGameMode.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\ABCharacter.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\ABGameMode.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\ABPawn.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\ABPlayerController.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\TutorialProject.init.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\TutorialProjectCharacter.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\TutorialProjectGameMode.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\Default.rc2.res"
+/OUT:"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\Development\TutorialProject\UE4Editor-TutorialProject-0033.lib"
+/INCLUDE:IMPLEMENT_MODULE_TutorialProject

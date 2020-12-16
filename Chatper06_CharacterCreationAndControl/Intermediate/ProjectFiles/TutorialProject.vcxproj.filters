@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TutorialProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D1BF82CA-30E4-461D-9E6D-2AA8814261E1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TutorialProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TutorialProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{939B0F37-7B58-4AB6-BF2B-C711884DEFB8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TutorialProject">
+      <UniqueIdentifier>{B2B36E5A-E322-430F-9492-632392639E1B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TutorialProject\ABCharacter.cpp">
+      <Filter>Source\TutorialProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialProject\ABCharacter.h">
+      <Filter>Source\TutorialProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TutorialProject\ABGameMode.cpp">
+      <Filter>Source\TutorialProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialProject\ABGameMode.h">
+      <Filter>Source\TutorialProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TutorialProject\ABPawn.cpp">
+      <Filter>Source\TutorialProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialProject\ABPawn.h">
+      <Filter>Source\TutorialProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TutorialProject\ABPlayerController.cpp">
+      <Filter>Source\TutorialProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialProject\ABPlayerController.h">
+      <Filter>Source\TutorialProject</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TutorialProject\TutorialProject.Build.cs">
+      <Filter>Source\TutorialProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TutorialProject\TutorialProject.cpp">
+      <Filter>Source\TutorialProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialProject\TutorialProject.h">
+      <Filter>Source\TutorialProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TutorialProject\TutorialProjectCharacter.cpp">
+      <Filter>Source\TutorialProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialProject\TutorialProjectCharacter.h">
+      <Filter>Source\TutorialProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TutorialProject\TutorialProjectGameMode.cpp">
+      <Filter>Source\TutorialProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TutorialProject\TutorialProjectGameMode.h">
+      <Filter>Source\TutorialProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
