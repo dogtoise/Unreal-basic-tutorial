@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TutorialProject-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\TutorialProjectEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.h.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\ABAnimInstance.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\ABCharacter.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\ABGameMode.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\ABPawn.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\ABPlayerController.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\TutorialProject.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\TutorialProjectCharacter.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\TutorialProjectGameMode.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\ABAnimInstance.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\ABCharacter.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\ABGameMode.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\ABPawn.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\ABPlayerController.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\TutorialProject.init.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\TutorialProjectCharacter.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\TutorialProjectGameMode.gen.cpp.obj"
+"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\Default.rc2.res"
+/OUT:"D:\Unreal Projects\TutorialProject\Intermediate\Build\Win64\UE4Editor\DebugGame\TutorialProject\UE4Editor-TutorialProject-Win64-DebugGame.lib"
+/INCLUDE:IMPLEMENT_MODULE_TutorialProject
